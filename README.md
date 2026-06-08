@@ -11,9 +11,9 @@
 
 ---
 
-## 🔗 Links
+## 🔗 หน้าอื่นๆ
 
-| หน้าอื่นๆ | Open |
+| Menu | Open |
 |------|------|
 | ประวัติส่วนตัว🔍 | [Click Here](toomeeee.md) |
 | 🎵 Our Song | [Spotify](https://spotify.com) |
