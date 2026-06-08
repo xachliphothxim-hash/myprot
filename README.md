@@ -1,7 +1,8 @@
 # 🌙 Nichanan Profile
 
 <p align="center">
-  <img src="https://[linkรูปโปรไฟล์.png](https://i.postimg.cc/wx1jd7W6/Screenshot-2026-06-08-18-26-01.png)" width="120">
+  <img src="https://<img width="378" height="476" alt="Screenshot 2026-06-08 18 26 01" src="https://github.com/user-attachments/assets/aa521f8a-61e5-4368-81b5-b6a1a1b9670b" />
+" width="120">
 </p>
 
 ## 📸 Gallery
