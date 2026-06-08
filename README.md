@@ -1,22 +1,17 @@
-# 🌙 Nichanan Profile
+# 🌙 Leon Profile
 
 <p align="center">
-  <img src="https://<img width="378" height="476" alt="Screenshot 2026-06-08 18 26 01" src="https://github.com/user-attachments/assets/aa521f8a-61e5-4368-81b5-b6a1a1b9670b" />
-" width="120">
+  <img src="https://i.postimg.cc/wx1jd7W6/Screenshot-2026-06-08-18-26-01.png" width="120">
 </p>
+
+<h2 align="center">ลีออนรักเมีย</h2>
+
+---
 
 ## 📸 Gallery
 
-<a href="https://[linkรูป1](https://i.postimg.cc/wx1jd7W6/Screenshot-2026-06-08-18-26-01.png)">
-<img src="https://[linkรูป1.jpg](https://i.postimg.cc/wx1jd7W6/Screenshot-2026-06-08-18-26-01.png)" width="200">
-</a>
-
-<a href="https://linkรูป2">
-<img src="https://linkรูป2.jpg" width="200">
-</a>
-
-<a href="https://linkรูป3">
-<img src="https://linkรูป3.jpg" width="200">
+<a href="https://i.postimg.cc/wx1jd7W6/Screenshot-2026-06-08-18-26-01.png">
+<img src="https://i.postimg.cc/wx1jd7W6/Screenshot-2026-06-08-18-26-01.png" width="200">
 </a>
 
 ---
@@ -25,9 +20,8 @@
 
 | Menu | Open |
 |------|------|
-| ❤️ My Love | [Click](https://your-link.com) |
+| ❤️ My Love | [Click Here](https://google.com) |
 | 🎵 Our Song | [Spotify](https://spotify.com) |
-| 📷 Gallery | [View](https://your-link.com) |
 
 ---
 
