@@ -1,7 +1,7 @@
 # 🌙 Leon Profile
 
 <p align="center">
-  <img src="https://i.postimg.cc/wx1jd7W6/Screenshot-2026-06-08-18-26-01.png" width="120">
+  <img src="https://i.postimg.cc/wx1jd7W6/Screenshot-2026-06-08-18-26-01.png" width="180" style="border-radius:50%;">
 </p>
 
 <h2 align="center">ลีออนรักเมีย</h2>
