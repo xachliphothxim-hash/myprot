@@ -1,13 +1,13 @@
 # 🌙 Nichanan Profile
 
 <p align="center">
-  <img src="https://linkรูปโปรไฟล์.png" width="120">
+  <img src="https://[linkรูปโปรไฟล์.png](https://i.postimg.cc/wx1jd7W6/Screenshot-2026-06-08-18-26-01.png)" width="120">
 </p>
 
 ## 📸 Gallery
 
-<a href="https://linkรูป1">
-<img src="https://linkรูป1.jpg" width="200">
+<a href="https://[linkรูป1](https://i.postimg.cc/wx1jd7W6/Screenshot-2026-06-08-18-26-01.png)">
+<img src="https://[linkรูป1.jpg](https://i.postimg.cc/wx1jd7W6/Screenshot-2026-06-08-18-26-01.png)" width="200">
 </a>
 
 <a href="https://linkรูป2">
