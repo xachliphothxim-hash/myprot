@@ -13,7 +13,7 @@
 
 ## 🔗 Links
 
-| Menu | Open |
+| หน้าอื่นๆ | Open |
 |------|------|
 | ประวัติส่วนตัว🔍 | [Click Here](toomeeee.md) |
 | 🎵 Our Song | [Spotify](https://spotify.com) |
