@@ -1,1 +1,23 @@
-<source src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" type="video/mp4">
+# Profile
+
+<img src="https://i.postimg.cc/2jJWhpq0/In-Shot-20260608-202630844.png" width="180">
+
+<h2>นางสาวนิชานันท์ โพธิ์อิ่ม</h2>
+
+📍 ม.6/4 
+
+📍 เลขที่ 30
+
+
+---
+
+## 🔗 Links
+
+| Menu | Open |
+|------|------|
+| ❤️ My Love | [Click Here](toomeeee.md) |
+| 🎵 Our Song | [Spotify](https://spotify.com) |
+
+---
+
+> This is U & Me in our best years together.
