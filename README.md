@@ -15,7 +15,7 @@
 
 | Menu | Open |
 |------|------|
-| ❤️ My Love | [Click Here](toomeeee.md) |
+| ประวัติส่วนตัว🔍 | [Click Here](toomeeee.md) |
 | 🎵 Our Song | [Spotify](https://spotify.com) |
 
 ---
