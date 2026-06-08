@@ -1,16 +1,14 @@
 <table>
 <tr>
-<td width="220">
-
+<td width="180">
 <img src="https://i.postimg.cc/wx1jd7W6/Screenshot-2026-06-08-18-26-01.png" width="180">
-
 </td>
 
 <td>
 
 # ลีออนรักเมีย
 
-✨ Welcome to my profile
+เมียสวยมีชัยไปกว่าครึ่ง 🤍
 
 </td>
 </tr>
