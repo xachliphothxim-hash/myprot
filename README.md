@@ -16,7 +16,7 @@
 | Menu | Open |
 |------|------|
 | ประวัติส่วนตัว🔍 | [Click Here](toomeeee.md) |
-| 🎵 Our Song | [Spotify](https://spotify.com) |
+| ระดับการศึกษา📝 | [Click Here](Grade.md) |
 
 ---
 
