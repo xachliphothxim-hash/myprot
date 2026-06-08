@@ -1,25 +1,33 @@
-<!DOCTYPE html>
-<html lang="th">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>หน้า 0</title>
-</head>
-<body>
+# 🌙 Nichanan Profile
 
-    <h2>สวัสดีค่ะ</h2>
+<p align="center">
+  <img src="https://linkรูปโปรไฟล์.png" width="120">
+</p>
 
-    <p>
-        ดิฉัน ชื่อนางสาวนิชานันท์ โพธิ์อิ่ม<br>
-        เลขที่ 30 ม.6/4
-    </p>
+## 📸 Gallery
 
-    <img
-        src="https://github.com/user-attachments/assets/1d8b6d8c-eda4-4be9-9962-f60a9c946b06"
-        alt="รูปภาพของนิชานันท์"
-        width="378"
-        height="476"
-    >
+<a href="https://linkรูป1">
+<img src="https://linkรูป1.jpg" width="200">
+</a>
 
-</body>
-</html>
+<a href="https://linkรูป2">
+<img src="https://linkรูป2.jpg" width="200">
+</a>
+
+<a href="https://linkรูป3">
+<img src="https://linkรูป3.jpg" width="200">
+</a>
+
+---
+
+## 🔗 Links
+
+| Menu | Open |
+|------|------|
+| ❤️ My Love | [Click](https://your-link.com) |
+| 🎵 Our Song | [Spotify](https://spotify.com) |
+| 📷 Gallery | [View](https://your-link.com) |
+
+---
+
+> This is U & Me in our best years together.
