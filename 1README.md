@@ -15,8 +15,8 @@
 
 | Menu | Open |
 |------|------|
-| ประวัติส่วนตัว🔍 | [Click Here](toomeeee.md) |
-| ระดับการศึกษา📝 | [Click Here](Grade.md) |
+| ประวัติส่วนตัว🔍 | [Click Here](2toomeeee.md) |
+| ระดับการศึกษา📝 | [Click Here](3Grade.md) |
 
 ---
 
