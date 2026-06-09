@@ -22,6 +22,7 @@
 | เกียรติบัตร2 | [Click Here](6g.md) |
 | เกียรติบัตร3 | [Click Here](7g.md) |
 | เกียรติบัตร4 | [Click Here](8g.md) |
+| รูปกิจกรรม | [Click Here](9git.md) |
 ---
 
 > This is U & Me in our best years together.
