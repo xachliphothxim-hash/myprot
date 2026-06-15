@@ -25,4 +25,4 @@
 | รูปกิจกรรม | [Click Here](9git.md) |
 ---
 
-> This is U & Me in our best years together.
+> Thank you
