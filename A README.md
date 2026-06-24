@@ -15,7 +15,7 @@
 
 | Menu | Open |
 |------|------|
-| ประวัติส่วนตัว🔍 | [Click Here](B toomeeee.md) |
+| ประวัติส่วนตัว🔍 | [Click Here](Btoomeeee.md) |
 | ระดับการศึกษา📝 | [Click Here](D Grade.md) |
 | เหตุผล❓ | [Click Here](E uni.md) |
 | เกียรติบัตร1 | [Click Here](F g.md) |
