@@ -18,10 +18,6 @@
 | เกียรติบัตร2 | [Click Here](Gg.md) |
 | เกียรติบัตร3 | [Click Here](Hg.md) |
 | เกียรติบัตร4 | [Click Here](Jg.md) |
-| รูปกิจกรรม1 | [Click Here](Lgit.md) |
-| รูปกิจกรรม2 | [Click Here](Mgit.md)|
-| รูปกิจกรรม3 | [Click Here](Ngit.md) |
----
 
 > Thank you
 
