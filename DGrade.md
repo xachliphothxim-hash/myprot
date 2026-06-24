@@ -6,3 +6,22 @@
 * ปัจจุบันกำลังศึกษาอยู่ระดับมัธยมศึกษาตอนปลาย ชั้นมัธยมศึกษาปีที่ 6
   แผนการเรียนคณิตศาสตร์–ภาษาอังกฤษ : โรงเรียนกระทุ่มแบน (วิเศษสมุทคุณ)
 <img width="655" height="552" alt="Screenshot 2026-06-24 19 22 20" src="https://github.com/user-attachments/assets/12143540-852a-4816-9986-fe5ab173e0f4" />
+
+## 🔗 หน้าอื่นๆ
+
+| Menu | Open |
+|------|------|
+| โปรไฟล์ | [Click Here](AREADME.md) |
+| ประวัติส่วนตัว🔍 | [Click Here](Btoomeeee.md) |
+| เหตุผล❓ | [Click Here](Euni.md) |
+| เกียรติบัตร1 | [Click Here](Fg.md) |
+| เกียรติบัตร2 | [Click Here](Gg.md) |
+| เกียรติบัตร3 | [Click Here](Hg.md) |
+| เกียรติบัตร4 | [Click Here](Jg.md) |
+| รูปกิจกรรม1 | [Click Here](Lgit.md) |
+| รูปกิจกรรม2 | [Click Here](Mgit.md)|
+| รูปกิจกรรม3 | [Click Here](Ngit.md) |
+---
+
+> Thank you
+
