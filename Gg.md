@@ -4,3 +4,4 @@
 <br>
 <img width="788" height="564" alt="Screenshot 2026-06-08 23 02 31" src="https://github.com/user-attachments/assets/dfb60610-1a3c-4e7f-90f8-51e3409923b2" />
 
+สามารถดูรูปภาพกิจกรรมได้ [Click Here](Hgit.md)
